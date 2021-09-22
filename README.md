@@ -1,2 +1,2 @@
 # Hello-world1
-Esto es una explicacion para los compa;eros
+Esto es una explicacion para los compa;eros y vamos a trabajar en un proyecto de java...
